@@ -1,0 +1,5 @@
+1- conocer el juego, sus reglas y nuestra version.
+1a- abrir wikipedia - simon - espanol
+1b- nuestra version, adaptacion que vamos a hacer: 1 solo jugador - niveles infinitos - tiempo - puntaje: cada boton apretado correctamente.
+2- diseno web: dispositivo simon - informacion y controles del juego - layout web
+3- programar: html y css dispositivo - programar funcionalidad del juego: click en cada boton con feedback mientras lo dejo apretado - cada 3 segundos 1 boton random debe parpadear 1 segundo
